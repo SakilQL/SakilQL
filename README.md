@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakilQL
 - 👀 I’m interested in ...website development
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ...cybersecurity
 - 💞️ I’m looking to collaborate on ...A new project of mine
 - 📫 How to reach me ...codewizzard366@gmail.com
 
