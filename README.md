@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SakilQL
-- 👀 I’m interested in ...website development
-- 🌱 I’m currently learning ...cybersecurity
+- 👋 Hi, I’m Sakil Rahman
+- 👀 I’m interested in ...programming
+- 🌱 I’m currently learning ...embedded programs
 - 💞️ I’m looking to collaborate on ...A new project of mine
-- 📫 How to reach me ...codewizzard366@gmail.com
+- 📫 How to reach me ...sakilsajid56@gmail.com
 
 <!---
 SakilQL/SakilQL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
